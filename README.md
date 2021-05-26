@@ -1,1 +1,1 @@
-# qmss_python_hw2
+# Homework 2 of QMSS Python class
